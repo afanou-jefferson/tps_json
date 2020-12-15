@@ -1,0 +1,32 @@
+{
+	"nom" : "Google",
+	"Siege social":{
+						"nom":"Googleplex", 
+						"ville":"Mountain View", 
+						"etat": "California", 
+						"pays":"United States"
+					},
+	"Fondateurs": [
+					{"nom":"Page",
+					"prenom":"Larry",
+					"dateDeNaissance":"26/03/1973",
+					"LieuDeNaissance":"East Lansing",
+					"EtatDeNaissance": "Michigan"
+					},
+					{"nom":"Sergey",
+					"prenom":"Brin",
+					"dateDeNaissance":"21/08/1973",
+					"LieuDeNaissance":"Moscou",
+					"EtatDeNaissance": "Union Sovietique"
+					}				
+				],
+	"Chiffre d'affaires":{ 
+						"unite":"en Milliards de $",
+	 						"valeurs":[
+										["2008", 16.49 ],
+										["2012", 37.97 ],
+										["2016", 89.46 ],
+										["2018", 136.2 ]
+									]
+						}
+}
